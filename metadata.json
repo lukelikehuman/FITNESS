@@ -1,0 +1,8 @@
+{
+  "name": "反作用力訓練空間 - Reaction Force Training Space",
+  "description": "專業的一對一私人教練、運動表現提升與推廣科學化訓練的健身空間。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
